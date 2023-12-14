@@ -1,0 +1,8 @@
+2 a pour carré 4
+5 a pour carré 25
+10 a pour carré 100
+6 a pour carré 36
+15 a pour carré 225
+20 a pour carré 400
+9 a pour carré 81
+3 a pour carré 9
