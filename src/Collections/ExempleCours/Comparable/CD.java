@@ -30,6 +30,4 @@ public class CD implements Comparable {
     }
     return -1;
   }
-
-  
 }
