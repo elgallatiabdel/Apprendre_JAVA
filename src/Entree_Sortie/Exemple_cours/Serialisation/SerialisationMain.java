@@ -8,7 +8,7 @@ public class SerialisationMain {
   public static void main(String[] args) {
     try {
       // creation de personne
-      Personne p = new Personne("Elgallati", "Abdelilah",20);
+      Personne p = new Personne("Elgallati", "Mahdi",21);
       System.out.println("creation de : " + p);
 
       // ouverture d'un flux de sortie vers le fichier "personne.serial"

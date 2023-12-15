@@ -14,8 +14,7 @@ public class Personne implements Serializable {
     this.age = age;
   }
   
-  public Personne() {
-  }
+  public Personne() {}
 
   public String getNom() {
     return nom;

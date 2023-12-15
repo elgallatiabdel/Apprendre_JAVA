@@ -9,7 +9,6 @@ public class Crftxt1 {
   public static void main(String[] args) throws IOException {
     String nomfich ;
     int n;
-
     try (Scanner scanner = new Scanner(System.in)) {
       System.out.print("donnez le nom du fichier a crée: ");
       nomfich = scanner.nextLine();
@@ -24,4 +23,3 @@ public class Crftxt1 {
     System.out.println("fin de création de fichier");
   }
 }
-

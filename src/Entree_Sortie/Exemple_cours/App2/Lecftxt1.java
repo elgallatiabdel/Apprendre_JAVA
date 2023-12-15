@@ -9,9 +9,8 @@ public class Lecftxt1 {
   public static void main(String[] args) throws IOException {
     String nomfich ;
     String ligne;
-
     try (Scanner scanner = new Scanner(System.in)) {
-      System.out.print("donnez le nom du fichier a crée: ");
+      System.out.print("donnez le nom du fichier a lister: ");
       nomfich = scanner.nextLine();
       BufferedReader entree = new BufferedReader(new FileReader(nomfich));
       do {
